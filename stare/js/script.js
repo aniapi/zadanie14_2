@@ -3,31 +3,31 @@
   	id: 1,
     title: 'Harry Potter',
     desc: 'film o czarodzieju',
-    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgP7MceUej4joY9na1aaRR53sInfqW40YQyDJgUKG9nDHkx2mf'
+    img: 'https://images.pottermore.com/bxd3o8b291gf/3SQ3X2km8wkQIsQWa02yOY/25f258f21bdbe5f552a4419bb775f4f0/HarryPotter_WB_F4_HarryPotterMidshot_Promo_080615_Port.jpg?w=320&h=240&fit=thumb&f=face&q=85'
   },
   {
     id: 2,
     title: 'Król Lew',
     desc: 'Film o królu sawanny',
-    img: 'http://moviesroom.pl/images/00.Sty-lut/Magda/krol-lew-1000x600.jpg'
+    img: './images/cat.jpg'
   },
   {
     id: 3,
     title: 'Marry Poppins',
     desc: 'Film o parasolce',
-    img: 'http://www.jtmoore.org/wp-content/uploads/2017/11/nintchdbpict0002985906251.jpg'
+    img: './images/cat.jpg'
   },
   {
     id: 4,
     title: 'Piotruś Pan',
     desc: 'Film o chłopcu',
-    img: 'http://1.fwcdn.pl/wv/89/70/18970/z01.18970.4.jpg'
+    img: './images/cat.jpg'
   },
   {
     id: 5,
     title: 'Ogniem i mieczem',
     desc: 'Film o ogniu',
-    img: 'http://1.fwcdn.pl/ph/01/37/137/490767_1.2.jpg'
+    img: './images/cat.jpg'
   }
 ];
 
